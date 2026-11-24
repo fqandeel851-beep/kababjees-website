@@ -1,0 +1,210 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+nav{
+   width: 100%;
+    display:flex;
+    background-color:#f8f3f3;
+    padding:10px;
+    margin:1px;
+    border:1px solid #EEEEEE ;
+    border-radius:40px;
+}
+
+.loc{
+    color:red;
+    font-size:1.5rem;
+    display:flex;
+    margin:2px;
+}
+.navsec1{
+    display:flex;
+    margin:10px;
+    padding:2px;
+    border:1px solid gray;
+    width:15%;
+    border-radius:5px;
+}
+.text p{
+    color:gray;
+}
+.text h3{
+    font-size:0.9rem;
+}
+/* _________________________________div2of navbar */
+.navsec2{
+    font-size:3rem;
+    font-weight:lighter;
+}
+/* _______________________navsec */
+.log2{
+    background-color:#FBD1CC;
+    padding:5px;
+    border-radius:5px;
+    margin:5px;
+    color:red;
+}
+.navsec3{
+     display:flex;
+    margin:10px;
+    padding:2px;
+    border:none;
+    width:15%;
+   
+}
+.navsec4 img{
+    margin-left:200px;
+   width: 100px;
+   margin-right: 50px;
+}
+.navsec5{
+    display:flex;
+    width:23%;
+    margin-left:25px;
+    padding:5px;
+    border-radius:7px;
+    background-color:white;
+}
+.textchange{
+    margin:0 auto;
+    font-size:0.8rem;
+}
+.logo3 {
+    width:30px;
+    height:30px;
+}
+.line{
+    margin-left:14px;
+}
+.navsec6 img{
+    border-radius:10px;
+    margin-left:20px;
+}
+.main_images{
+    margin-top:30px;
+    display:flex;
+    justify-content:space-around;
+}
+.images-text{
+    color:red;
+    font-size:1.2rem;
+    font-weight:1.9rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.input{
+ width:90%;
+    margin-left:50px;
+    margin-top:40px;
+    padding:20px;
+    border: 2px solid gainsboro;
+    border-radius: 30px;
+   box-shadow: 2px 3px 4px 2px whitesmoke; 
+}
+.input_1{
+   width: 90%;
+   padding: 2px;
+  border: none;
+}
+.logo_inp{
+    margin-left: 60px;
+    background-color: red;
+    border-radius: 20px;
+    color:white;
+    border: none;
+    padding:10px;
+}
+/* ___________________________sec3 */
+.sec_3{
+    margin-top: 30px;
+}
+.head{
+    display: flex;
+   
+}
+.logo_color{
+    color:orangered; 
+    margin-top: 10px;
+}
+.color_font{
+    color: red;
+}
+.card1 img{
+    width: 270px;
+}
+.upp{
+    text-transform: uppercase;
+    font-size: 1.9rem;
+    margin-left: 4px;
+}
+.para_sec3{
+    font-size: 1.4rem;
+    font-weight: lighter;
+}
+.main_cards3{
+    display: flex;
+    margin-top: 20px;
+     justify-content: space-between;
+}
+.card1{
+box-shadow: 2px 3px 1px 2px whitesmoke;
+  margin: 5px;
+}
+.para_card{
+    font-size: 1.1rem;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.price_card{
+    font-size: medium;
+    color: gray;
+    margin-top: 20px;
+   
+}
+.add_button{
+    color: white;
+    background-color: red;
+    padding: 15px;
+    border-radius: 10px;
+}
+.card_footer{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.image_sec4{
+    text-align: center;
+}
+.sec_5{
+    display: flex;
+    gap: 30px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.card_1{
+    border: 1px solid red;
+    border-radius: 10px;
+    margin: 2px 2px;
+    padding: 9px;
+}
+.card_1 h2{
+    font-size: 1.9rem;
+    margin: 2px 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card_1 p{
+   font-size: 0.9rem;
+}
+.card_4{
+    border: 1px solid red;
+    width: 400px;
+    padding: 5px;
+    margin: 5px 5px;
+    border-radius: 10px;
+  
+}
+.products h2{
+    margin: 2px;
+    font-size: 1.6rem;
+}
